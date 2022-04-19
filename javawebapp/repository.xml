@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structure101-repository language="java" version="14382">
+  <xs-configuration>
+    <entry metric="Tangled" scope="design" threshold="0" color="153,53,0" />
+    <entry metric="Fat" scope="design" threshold="120" color="255,153,0" />
+    <entry metric="Fat" scope="leaf package" threshold="120" color="0,153,153" />
+    <entry metric="Fat" scope="class" threshold="120" color="255,153,153" />
+    <entry metric="Fat" scope="method" threshold="15" color="51,255,51" />
+  </xs-configuration>
+  <!--Note: All date strings are stored in short US format e.g. 2/1/06 for 1st Feb 2006-->
+  <project name="KCIMCore" dir="KCIMCore" baselineSnapshot="default">
+    <snapshot label="1.0.0" location="1_0_0" timestamp="6/10/19, 12:00 AM" version="14382" detail="true" size="14688" />
+  </project>
+  <project name="/appdata/test101/" dir="_appdata_test101_" baselineSnapshot="default">
+    <snapshot label="1.1.0" location="1_1_0" timestamp="1/27/20, 10:24 AM" version="15111" detail="true" size="1" />
+  </project>
+</structure101-repository>
